@@ -42,7 +42,7 @@ header{
     color: #a62224;
     border-bottom: 3px solid#a62224;
     font-weight: 800;
-    cursor: auto;
+    cursor: absolute;
     transition: 0.5s ease;
 }
 
